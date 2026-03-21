@@ -1,1 +1,115 @@
-{"acestream": [], "mylinkpaste": []}
+{
+  "acestream": [
+    {
+      "nombre": "MOVISTAR +",
+      "id": "c1b7f54af0de256d1ac0fcac4c130e62660089f4",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    },
+    {
+      "nombre": "MOVISTAR LALIGA",
+      "id": "b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    },
+    {
+      "nombre": "DAZN LALIGA",
+      "id": "71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    },
+    {
+      "nombre": "LALIGA HYPERMOTION",
+      "id": "fc129b39c253b887563c3f0dce5fca7e699c3047",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    },
+    {
+      "nombre": "DAZN F1",
+      "id": "724f9b252b11064e3f16220717fd52bd3a510b5f",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    },
+    {
+      "nombre": "DAZN MOTOGP",
+      "id": "18b03739d660f0066364343e226e437bf2555d56",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    },
+    {
+      "nombre": "EVENTUAL (SOLO EVENTOS)",
+      "id": "3c4185422b04ef24c80e015210339f805d80f9f0",
+      "seccion": "SHICKAT ACESTREAM",
+      "lang": "es"
+    }
+  ],
+  "mylinkpaste": [
+    {
+      "nombre": "ELCANO",
+      "id": "681fc74c1833d17ffd9a9c59",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "MAMANDURRIAS",
+      "id": "682cb7103451b27a40bc9aa2",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "SHICKAT",
+      "id": "69ad7d19d05ee80b5cd88ca4",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "TOKYO",
+      "id": "695d5309d05ee80b5cd7efad",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "ICASTRESANA",
+      "id": "69618ec6d05ee80b5cd7f636",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "EUPHORBIA HELIOSCOPIA",
+      "id": "6983264cd05ee80b5cd83776",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "NANOBOX",
+      "id": "68ce6e8c3451b27a40bca302",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "NANOSTREAMS",
+      "id": "68a975d43451b27a40bca0b3",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "MATTEO",
+      "id": "68b1dfe33451b27a40bca11d",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "ORDOÃEZ",
+      "id": "694a9cd6d05ee80b5cd7eb19",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    },
+    {
+      "nombre": "CULOGARTO",
+      "id": "69824a98d05ee80b5cd8368e",
+      "seccion": "MYLINKPASTE CODIGOS",
+      "lang": "es"
+    }
+  ],
+  "timestamp": "2026-03-21T14:37:24.423279"
+}
