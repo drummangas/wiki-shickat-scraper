@@ -1,0 +1,58 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+
+# Wiki Shickat — generado automáticamente
+# Última actualización: 2026-04-07T13:23:18.570989+00:00
+
+#EXTINF:-1 tvg-id="MOVISTAR +" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%2B.png" group-title="SHICKAT ACESTREAM",MOVISTAR +
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
+
+#EXTINF:-1 tvg-id="MOVISTAR LALIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20LaLiga.png" group-title="SHICKAT ACESTREAM",MOVISTAR LALIGA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
+
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="SHICKAT ACESTREAM",DAZN LALIGA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+
+#EXTINF:-1 tvg-id="LALIGA HYPERMOTION" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20Hypermotion.png" group-title="SHICKAT ACESTREAM",LALIGA HYPERMOTION
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc129b39c253b887563c3f0dce5fca7e699c3047
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="SHICKAT ACESTREAM",DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=724f9b252b11064e3f16220717fd52bd3a510b5f
+
+#EXTINF:-1 tvg-id="DAZN MOTOGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" group-title="SHICKAT ACESTREAM",DAZN MOTOGP
+http://127.0.0.1:6878/ace/manifest.m3u8?id=18b03739d660f0066364343e226e437bf2555d56
+
+#EXTINF:-1 tvg-id="EVENTUAL (SOLO EVENTOS)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Evento.png" group-title="SHICKAT ACESTREAM",EVENTUAL (SOLO EVENTOS)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3c4185422b04ef24c80e015210339f805d80f9f0
+
+#EXTINF:-1 tvg-id="ELCANO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ELCANO.png" group-title="MYLINKPASTE CODIGOS",ELCANO
+# MyLinkPaste ID: 681fc74c1833d17ffd9a9c59
+
+#EXTINF:-1 tvg-id="MAMANDURRIAS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MAMANDURRIAS.png" group-title="MYLINKPASTE CODIGOS",MAMANDURRIAS
+# MyLinkPaste ID: 682cb7103451b27a40bc9aa2
+
+#EXTINF:-1 tvg-id="SHICKAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SHICKAT.png" group-title="MYLINKPASTE CODIGOS",SHICKAT
+# MyLinkPaste ID: 69ad7d19d05ee80b5cd88ca4
+
+#EXTINF:-1 tvg-id="TOKYO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TOKYO.png" group-title="MYLINKPASTE CODIGOS",TOKYO
+# MyLinkPaste ID: 695d5309d05ee80b5cd7efad
+
+#EXTINF:-1 tvg-id="ICASTRESANA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ICASTRESANA.png" group-title="MYLINKPASTE CODIGOS",ICASTRESANA
+# MyLinkPaste ID: 69618ec6d05ee80b5cd7f636
+
+#EXTINF:-1 tvg-id="EUPHORBIA HELIOSCOPIA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EUPHORBIA%20HELIOSCOPIA.png" group-title="MYLINKPASTE CODIGOS",EUPHORBIA HELIOSCOPIA
+# MyLinkPaste ID: 6983264cd05ee80b5cd83776
+
+#EXTINF:-1 tvg-id="NANOBOX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NANOBOX.png" group-title="MYLINKPASTE CODIGOS",NANOBOX
+# MyLinkPaste ID: 68ce6e8c3451b27a40bca302
+
+#EXTINF:-1 tvg-id="NANOSTREAMS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NANOSTREAMS.png" group-title="MYLINKPASTE CODIGOS",NANOSTREAMS
+# MyLinkPaste ID: 68a975d43451b27a40bca0b3
+
+#EXTINF:-1 tvg-id="MATTEO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MATTEO.png" group-title="MYLINKPASTE CODIGOS",MATTEO
+# MyLinkPaste ID: 68b1dfe33451b27a40bca11d
+
+#EXTINF:-1 tvg-id="ORDOÃEZ" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ORDO%C3%83%C2%91EZ.png" group-title="MYLINKPASTE CODIGOS",ORDOÃEZ
+# MyLinkPaste ID: 694a9cd6d05ee80b5cd7eb19
+
+#EXTINF:-1 tvg-id="CULOGARTO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CULOGARTO.png" group-title="MYLINKPASTE CODIGOS",CULOGARTO
+# MyLinkPaste ID: 69824a98d05ee80b5cd8368e
